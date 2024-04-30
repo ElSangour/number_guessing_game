@@ -1,8 +1,8 @@
  # 💻Project: Number Guessing Game
-##What's this all about?
+## What's this all about?
 
 Welcome to the Number Guessing Game, a fun little project I put together as part of the FreeCodeCamp Relational Databases Beta Certificate course.
-##How does it work?
+## How does it work?
 
 So, picture this: I created a cool database in PostgreSQL where I stash all your info and game history. There are a couple of tables - 'Games', where I keep track of your game history, like how many guesses you made and what the secret number was, and 'Players', where I remember your username and ID so I know if you're a new or returning player.
 
